@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Manasvi Dama!
+### 📊 Data Analyst Portfolio
 
-<!--
-**manasvidama/manasvidama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate Data Analyst focused on transforming raw numbers into meaningful corporate stories and interactive dashboards. Experienced in data cleaning, exploratory data analysis (EDA), and automated reporting.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills & Tools
+
+- **Data Analysis & Processing:** SQL (SQL Server, MySQL), Advanced Excel
+- **Data Visualization & BI:** Power BI, Tableau
+- **Programming Languages:** Python (Pandas, NumPy)
+
+---
+
+### 📜 Certifications
+
+- 🏅 **Google Data Analytics Professional Certificate**
+- 🏅 **SQL & Power BI for Data Science**
+
+---
+
+### 📂 Featured Projects
+📌 **[Sales Performance & Business Intelligence Analysis](https://github.com)**
+- An interactive Power BI dashboard and SQL-driven analysis tracking company KPIs and revenue growth.
